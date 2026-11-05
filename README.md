@@ -14,3 +14,7 @@
 ### License
 
 It is still under consideration. Anyone know which is suitable?
+
+### 说明
+
+源仓库的中文翻译，个人理解与练习
